@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>HobbyConsolas</title>
+        <description>Página web con las últimas noticias del mundo del entretenimiento</description>
+        <link>https://www.hobbyconsolas.com/</link>
+
+        <item>
+            <title>Primera imagen filtrada de Fortnite Temporada 3 Capítulo 4, con Optimus Prime</title>
+            <description>Transformers se podría haber unido a Epic Games para publicar aspectos para Fortnite, como el de Optimus Prime. La supuesta primera imagen filtrada de la Temporada 3 para el Capítulo 4 lo habría desvelado.</description>
+            <link>https://www.hobbyconsolas.com/noticias/filtrada-primera-imagen-arte-fortnite-temporada-3-capitulo-4-1251822</link>
+            <media:content url="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/05/transformers-3044512.jpg?tf=1200x" type="image/jpeg" medium="image" />
+            <category>Juegos</category>
+        </item>
+
+        <item>
+            <title>Aquí puedes leer gratis el guion completo de capítulo 3 de The Last of Us, protagonizado por Bill y Frank</title>
+            <description>Conoce la historia de amor que dio origen al episodio más recordado de The Last of Us, leyendo el guion completo del tercer capítulo de la serie de HBO Max. </description>
+            <link>https://www.hobbyconsolas.com/noticias/lee-gratis-guion-completo-capitulo-3-last-us-1251818</link>
+            <media:content url="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/05/bill-frank-last-us-long-long-time-nick-offerman-murray-bartlett-3044516.jpg?tf=1200x" type="image/jpeg" medium="image" />
+            <category>Series y televisión</category>
+        </item>
+
+        <item>
+            <title>Quentin Tarantino explica todos los fallos del streaming: “¿Qué es una película? ¿Sólo algo que ponen en Apple?”</title>
+            <description>Quentin Tarantino tantea el futuro de su carrera como cineasta o escritor, dejando claro que las películas deben verse en el cine, y que el streaming es un mal negocio.</description>
+            <link>https://www.hobbyconsolas.com/noticias/quentin-tarantino-podria-empezar-hacer-series-television-1251816</link>
+            <media:content url="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2022/04/quentin-tarantino-2682905.jpg?tf=1200x" type="image/jpeg" medium="image" />
+            <category>Cine</category>
+        </item>
+
+        <item>
+            <title>Marvel's Spider-Man 2 tendrá 3 árboles de habilidad para Spidey: Peter, Miles y habilidades compartidas</title>
+            <description>Colleen Doran adaptará la novela de Buenos Presagios escrita por Neil Gaiman y Terry Pratchett, siendo fiel al material original y sin tener en cuenta la serie de Amazon Prime Video.</description>
+            <link>https://www.hobbyconsolas.com/noticias/marvels-spider-man-2-tendra-3-arboles-habilidades-confirma-insomniac-1251788</link>
+            <media:content url="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/05/marvels-spider-man-2-3044408.jpg?tf=1200x" type="image/jpeg" medium="image" />
+            <category>Juegos</category>
+        </item>
+
+        <item>
+            <title>Good Omens tendrá una adaptación al cómic, basándose en el libro de Neil Gaiman y Terry Pratchett</title>
+            <description>"Nuestros héroes comparten tecnología y entrenan juntos, por eso incluimos un Árbol de Habilidades compartido que ofrece mejoras conjuntas para ambos", Insomniac ha pensado que el nuevo juego de PlayStation tenga todo ello.</description>
+            <link>https://www.hobbyconsolas.com/noticias/good-omens-tendra-comic-basado-libro-neil-gaiman-terry-pratchett-1251774</link>
+            <media:content url="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2019/05/good-omens_6.jpg?tf=1200x" type="image/jpeg" medium="image" />
+            <category>Cómics</category>
+        </item>
+
+        <item>
+            <title>¿Nuevo God of War o secuela de Ragnarok? Santa Monica Studio busca personal para un nuevo juego en PS4 y/o PS5</title>
+            <description>La desarrolladora de PlayStation Studios ya busca su próximo proyecto, o eso desvelaría una oferta de trabajo. Santa Monica Studio parece buscar personal para un nuevo juego de God of War, que ya estaría creándose para consolas de PlayStation.</description>
+            <link>https://www.hobbyconsolas.com/noticias/santa-monica-studio-estaria-desarrollando-nuevo-god-war-playstation-1251756</link>
+            <media:content url="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/04/god-war-ragnarok-3003842.jpg?tf=1200x" type="image/jpeg" medium="image" />
+            <category>PS4</category>
+        </item>
+
+</channel>
+</rss>
